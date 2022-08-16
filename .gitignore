@@ -1,0 +1,17 @@
+config.py
+
+*.json
+*.txt
+__pycache__
+binance_data_env
+.DS_Store
+
+__pycache__
+
+*.*~
+
+*.pyc
+
+.env
+
+.idea
